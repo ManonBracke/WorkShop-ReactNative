@@ -16,4 +16,5 @@ Création d'un flappy bird grâce à react native
     - npm install --global expo-cli
     - expo init flappy-bird --template blank
     - cd flappy-bird
-    - npm start
+    - code .
+    - expo start
